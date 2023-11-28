@@ -55,6 +55,10 @@ This Python script analyzes Ethereum node sync logs, extracts timestamps and cor
 - Matplotlib
 - Pandas
 
+## Result
+
+![Sync Speed and Block Number Difference](./output/sync_speed.png)
+
 ## License
 
 This project is licensed under the MIT License.
