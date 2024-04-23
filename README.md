@@ -71,3 +71,5 @@ This project is licensed under the MIT License.
 ## Author
 
 [Oleksandr Koniaiev](https://www.linkedin.com/in/oleksandr-koniaiev)
+
+## Contribute
